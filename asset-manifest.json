@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-AxieWebsite/static/css/main.980b9b22.chunk.css",
+    "main.js": "/react-AxieWebsite/static/js/main.91a7771f.chunk.js",
+    "main.js.map": "/react-AxieWebsite/static/js/main.91a7771f.chunk.js.map",
+    "runtime-main.js": "/react-AxieWebsite/static/js/runtime-main.9c193023.js",
+    "runtime-main.js.map": "/react-AxieWebsite/static/js/runtime-main.9c193023.js.map",
+    "static/js/2.28728e99.chunk.js": "/react-AxieWebsite/static/js/2.28728e99.chunk.js",
+    "static/js/2.28728e99.chunk.js.map": "/react-AxieWebsite/static/js/2.28728e99.chunk.js.map",
+    "index.html": "/react-AxieWebsite/index.html",
+    "static/css/main.980b9b22.chunk.css.map": "/react-AxieWebsite/static/css/main.980b9b22.chunk.css.map",
+    "static/js/2.28728e99.chunk.js.LICENSE.txt": "/react-AxieWebsite/static/js/2.28728e99.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-AxieWebsite/static/media/aboutus.4a0dcc41.jpg",
+    "static/media/admins.png": "/react-AxieWebsite/static/media/admins.7805aae6.png",
+    "static/media/HeroSection.css": "/react-AxieWebsite/static/media/background.d4b79fb8.jpg",
+    "static/media/cherry.png": "/react-AxieWebsite/static/media/cherry.b23ba78e.png",
+    "static/media/deiji.png": "/react-AxieWebsite/static/media/deiji.a8bdd104.png",
+    "static/media/jhera.png": "/react-AxieWebsite/static/media/jhera.81472a46.png",
+    "static/media/logo.png": "/react-AxieWebsite/static/media/logo.94d52184.png",
+    "static/media/logo1.png": "/react-AxieWebsite/static/media/logo1.c7590fee.png",
+    "static/media/m.png": "/react-AxieWebsite/static/media/m.9007dbf8.png",
+    "static/media/panda.png": "/react-AxieWebsite/static/media/panda.e3e0f25e.png",
+    "static/media/text1.png": "/react-AxieWebsite/static/media/text1.0a893b8b.png",
+    "static/media/tkun.png": "/react-AxieWebsite/static/media/tkun.cfe3d942.png",
+    "static/media/whiteheart.png": "/react-AxieWebsite/static/media/whiteheart.c7272d14.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c193023.js",
+    "static/js/2.28728e99.chunk.js",
+    "static/css/main.980b9b22.chunk.css",
+    "static/js/main.91a7771f.chunk.js"
+  ]
+}
